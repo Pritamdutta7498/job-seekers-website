@@ -6,7 +6,10 @@
   <h2>we use html, css, javaScript, daisy Ui, tailwind css, react for build this website!</h2>
  </li>
  <li>
-    <a href="https://ph-job-seeker-project.netlify.app/">Visit this site</a></li>
+    <h1>
+       <a href="https://ph-job-seeker-project.netlify.app/">Visit this site</a>
+     </h1>
+ </li>
 </ul
 
 
