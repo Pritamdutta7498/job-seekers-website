@@ -6,14 +6,14 @@ const Header = () => {
     <div className="job-container">
       <div className="header flex justify-between items-center">
         <Link to="/">
-          <p className="text-2xl md:text-4xl font-extrabold text-orange-500 md:ml-6 sm:ml-3 ">JobSeeker</p>
+          <p className="text-2xl md:text-4xl font-extrabold text-orange-500 md:ml-6 sm:ml-3 sm:mr-2 ">JobSeeker</p>
         </Link>
-        <div >
-          <ul className="hidden md:flex gap-5 items-center">
+        <div className="">
+          <ul className=" ml-2  sm:flex sm:justify-center md:flex gap-5 items-center ">
             <li>
               <NavLink
                 to="/"
-                className={({ isActive }) =>
+                className={({ isActive } ) =>
                   isActive ? "nav-link" : "nav-link-inactive"
                 }
               >

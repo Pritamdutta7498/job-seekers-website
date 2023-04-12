@@ -24,6 +24,7 @@
   @apply py-2 md:py-0 md:p-8 rounded-lg;
 }
 
+
 .nav-link {
   @apply text-sm font-bold text-orange-600;
 }
