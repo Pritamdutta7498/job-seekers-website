@@ -1,5 +1,8 @@
+
 import React from 'react';
 import { PieChart, Pie, Legend, Tooltip, ResponsiveContainer } from 'recharts';
+
+//data get from statistics
 
 const Chart = ({ marks }) => {
 
@@ -12,7 +15,7 @@ const Chart = ({ marks }) => {
     if (payload && payload.length) {
       const { assignment_marks } = payload[0].payload;
       return (
-        <div style={{ backgroundColor: '#fff', padding: '10px', border: '1px solid #ccc' }}>
+        <div style={{ backgroundColor: '#fff', padding: '30px', border:'1px solid #ccc' }}>
           <p style={{ margin: 0 }}>{assignment_marks}</p>
         </div>
       );
@@ -21,7 +24,7 @@ const Chart = ({ marks }) => {
   }
   
   return (
-    <ResponsiveContainer width="100%" height={400}>
+    <ResponsiveContainer width="100%" height={300}>
       <PieChart>
         <Pie
           dataKey="assignment_marks"
@@ -40,3 +43,5 @@ const Chart = ({ marks }) => {
 };
 
 export default Chart;
+
+

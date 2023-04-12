@@ -7,7 +7,7 @@
   {
     "id": 2,
     "assignment_name": "Two",
-    "assignment_marks": 60
+    "assignment_marks": 55
   },
   {
     "id": 3,
@@ -17,12 +17,12 @@
   {
     "id": 4,
     "assignment_name": "Four",
-    "assignment_marks":60
+    "assignment_marks":59
   },
   {
     "id": 5,
     "assignment_name": "Five",
-    "assignment_marks":60
+    "assignment_marks":27
   },
   {
     "id": 6,
