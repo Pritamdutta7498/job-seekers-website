@@ -54,6 +54,7 @@ const AppliedJobs = () => {
   }, [viewType, appliedJobs, availableJobs])
 
 
+
   return (
     <div>
       <Banner>Applied Jobs</Banner>
