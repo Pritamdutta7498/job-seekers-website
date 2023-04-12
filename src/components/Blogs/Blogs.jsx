@@ -7,9 +7,9 @@ const Blogs = () => {
   const questions = useLoaderData();
   console.log(questions);
   return (
-    <div className=''>
+    <div >
       <Banner>Blogs</Banner>
-      <div className='category-container flex flex-col gap-3'>
+      <div className='category-container  flex flex-col gap-3'>
         {
           questions.map(singleQuestion => <Question
           key={singleQuestion.id}
