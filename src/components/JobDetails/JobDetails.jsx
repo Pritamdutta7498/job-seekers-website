@@ -18,12 +18,8 @@ const JobDetails = ({ applied }) => {
   const job = useLoaderData();
   const {
     id,
-    logo,
     job_title,
-    company_name,
-    remote_or_onsite,
     location,
-    fulltime_or_parttime,
     salary,
     job_description,
     job_responsibility,
@@ -35,7 +31,10 @@ const JobDetails = ({ applied }) => {
 
   return (
     <div>
-      <Banner>Job Details</Banner>
+      <div>
+        <Banner>Job Details</Banner>
+      </div>
+
       <div className="details-container">
         <div className="p-4 grid grid-cols-1 md:grid-cols-8 gap-3">
           <div className="col-span-5 tracking-wide">
