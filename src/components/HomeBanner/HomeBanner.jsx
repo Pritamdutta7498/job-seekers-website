@@ -16,7 +16,7 @@ const HomeBanner = () => {
           </div>
         </div>
         <div className='mx-auto col-span-2'>
-          <img className='object-cover w-[280px] h-[250px] md:w-[550px] md:h-[450px]' src="profile.png" alt="" />
+          <img className='object-cover w-[280px] h-[250px] md:w-[550px] md:h-[450px]' src="/public/assets/profile.png" alt="" />
         </div>
       </div>
     </div>

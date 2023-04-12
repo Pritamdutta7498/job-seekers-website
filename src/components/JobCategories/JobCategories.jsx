@@ -21,7 +21,7 @@ const JobCategories = () => {
   return (
     <div className='category-container'>
       <div className='text-center'>
-        <p className='text-4xl font-bold pt-8 md:pt-14 pb-4'>Job Category List</p>
+        <p className='text-3xl font-bold pt-8 md:pt-14 pb-4'>Job Category List</p>
         <p className='text-xs text-slate-500'>Explore thousands of job opportunities with all the information you need. Its your future</p>
       </div>
       <div className='grid grid-cols-2 md:grid-cols-4 gap-3 mt-8'>
