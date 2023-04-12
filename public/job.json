@@ -1,14 +1,34 @@
 {
   "jobs": [
     {
+      "id": "2b-3c-4d",
+      "logo": "./assets/All Images/tesla-9 1.png",
+      "job_title": "UX Designer",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Onsite",
+      "location": "California, CA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "50k - 150k",
+      "job_description": "We're looking for a talented UX designer to join our team.",
+      "job_responsibility": "Design intuitive and elegant user experiences for our products. Work closely with other designers, engineers, and product managers.",
+      "educational_requirements": "Bachelor's degree in Graphic Design, Human-Computer Interaction, or a related field",
+      "experiences": "3+ years of experience in UX design",
+      "contact_information": [
+        {
+          "phone": "5554-5678",
+          "email": "jobs@apple.com"
+        }
+      ]
+    },
+    {
       "id": "1a-2b-3c",
-      "logo": "https://i.ibb.co/zPRxQMr/netflix-4-1.png",
+      "logo": "./assets/All Images/netflix-4 1.png",
       "job_title": "Software Engineer",
       "company_name": "Netflix",
       "remote_or_onsite": "Remote",
-      "location": "San Francisco, CA",
+      "location": "San Francisco, AG",
       "fulltime_or_parttime": "Full-time",
-      "salary": "120k - 180k",
+      "salary": "100k - 120k",
       "job_description": "We're seeking a software engineer with experience building large-scale distributed systems.",
       "job_responsibility": "Design, build, and maintain large-scale distributed systems. Work with other teams to ensure the system is reliable and scalable.",
       "educational_requirements": "Bachelor's degree in Computer Science or a related field",
@@ -21,28 +41,8 @@
       ]
     },
     {
-      "id": "2b-3c-4d",
-      "logo": "https://i.ibb.co/sJCfcqZ/tesla-9-1.png",
-      "job_title": "UX Designer",
-      "company_name": "Tesla",
-      "remote_or_onsite": "Onsite",
-      "location": "Cupertino, CA",
-      "fulltime_or_parttime": "Full-time",
-      "salary": "100k - 150k",
-      "job_description": "We're looking for a talented UX designer to join our team.",
-      "job_responsibility": "Design intuitive and elegant user experiences for our products. Work closely with other designers, engineers, and product managers.",
-      "educational_requirements": "Bachelor's degree in Graphic Design, Human-Computer Interaction, or a related field",
-      "experiences": "3+ years of experience in UX design",
-      "contact_information": [
-        {
-          "phone": "555-5678",
-          "email": "jobs@apple.com"
-        }
-      ]
-    },
-    {
       "id": "3c-4d-5e",
-      "logo": "https://i.ibb.co/zPRxQMr/netflix-4-1.png",
+      "logo": "./assets/All Images/netflix-4 1.png",
       "job_title": "Data Scientist",
       "company_name": "Netflix",
       "remote_or_onsite": "Remote",
@@ -62,7 +62,7 @@
     },
     {
       "id": "4d-5e-6f",
-      "logo": "https://i.ibb.co/Zz8k1zy/google-1-1-1-1.png",
+      "logo": "./assets/All Images/google-1-1 1.png",
       "job_title": "Data Scientist",
       "company_name": "Google",
       "remote_or_onsite": "Remote",
@@ -82,7 +82,7 @@
     },
     {
       "id": "5e-6f-7g",
-      "logo": "https://i.ibb.co/Zz8k1zy/google-1-1-1-1.png",
+      "logo": "./assets/All Images/google-1-1 1.png",
       "job_title": "UI/UX Designer",
       "company_name": "Google",
       "remote_or_onsite": "Onsite",
@@ -102,7 +102,7 @@
     },
     {
       "id": "6f-7g-8h",
-      "logo": "https://i.ibb.co/sJCfcqZ/tesla-9-1.png",
+      "logo": "./assets/All Images/tesla-9 1.png",
       "job_title": "Senior Software Engineer",
       "company_name": "Tesla",
       "remote_or_onsite": "Remote",
