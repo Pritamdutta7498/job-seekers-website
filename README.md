@@ -7,7 +7,7 @@
  </li>
  <li>
     <h1>
-       <a href="https://job-seeker-project.netlify.app/">Visit this site</a>
+       <a href="https://job-seeker-website.netlify.app/">Visit this site</a>
      </h1>
  </li>
 </ul
