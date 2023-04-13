@@ -1,22 +1,22 @@
 {
   "category": [
     {
-      "icon": "../src/assets/Icons/accounts 1.png",
+      "icon": "../src/assets/Icons/accounts.png",
       "title": "Account & Finance",
       "jobs_available": 300
     },
     {
-      "icon": "../src/assets/Icons/business 1.png",
+      "icon": "../src/assets/Icons/business.png",
       "title": "Creative Design",
       "jobs_available": "100+"
     },
     {
-      "icon": "../src/assets/Icons/social-media 1.png",
+      "icon": "../src/assets/Icons/social-media.png",
       "title": "Marketing & Sales",
       "jobs_available": 150
     },
     {
-      "icon": "../src/assets/Icons/chip 1.png",
+      "icon": "../src/assets/Icons/chip.png",
       "title": "Engineering Job",
       "jobs_available": 224
     }
