@@ -2,7 +2,7 @@
   "jobs": [
     {
       "id": "2b-3c-4d",
-      "logo": "./assets/All Images/tesla-9 1.png",
+      "logo": "../src/assets/All Images/tesla-9 1.png",
       "job_title": "UX Designer",
       "company_name": "Tesla",
       "remote_or_onsite": "Onsite",
@@ -22,7 +22,7 @@
     },
     {
       "id": "1a-2b-3c",
-      "logo": "./assets/All Images/netflix-4 1.png",
+      "logo": "../src/assets/All Images/netflix-4 1.png",
       "job_title": "Software Engineer",
       "company_name": "Netflix",
       "remote_or_onsite": "Remote",
@@ -42,7 +42,7 @@
     },
     {
       "id": "3c-4d-5e",
-      "logo": "./assets/All Images/netflix-4 1.png",
+      "logo": "../src/assets/All Images/netflix-4 1.png",
       "job_title": "Data Scientist",
       "company_name": "Netflix",
       "remote_or_onsite": "Remote",
@@ -62,7 +62,7 @@
     },
     {
       "id": "4d-5e-6f",
-      "logo": "./assets/All Images/google-1-1 1.png",
+      "logo": "../src/assets/All Images/google-1-1 1.png",
       "job_title": "Data Scientist",
       "company_name": "Google",
       "remote_or_onsite": "Remote",
@@ -82,7 +82,7 @@
     },
     {
       "id": "5e-6f-7g",
-      "logo": "./assets/All Images/google-1-1 1.png",
+      "logo": "../src/assets/All Images/google-1-1 1.png",
       "job_title": "UI/UX Designer",
       "company_name": "Google",
       "remote_or_onsite": "Onsite",
@@ -102,7 +102,7 @@
     },
     {
       "id": "6f-7g-8h",
-      "logo": "./assets/All Images/tesla-9 1.png",
+      "logo": "../src/assets/All Images/tesla-9 1.png",
       "job_title": "Senior Software Engineer",
       "company_name": "Tesla",
       "remote_or_onsite": "Remote",
